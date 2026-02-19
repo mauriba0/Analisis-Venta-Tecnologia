@@ -21,4 +21,5 @@ A partir de esta información se realizó:
 Convertir datos reales de ventas en información clara y visual que permita comprender el desempeño del negocio, detectar oportunidades de mejora y apoyar la toma de decisiones comerciales basadas en datos.
 
 👉 [Descargar archivo Excel]
-https://1drv.ms/x/c/7327a5504aff0be1/IQAsMqc7yAPaTK4gzpGrQAWaASG-Gm1MNuKXseZgbNouDwM?e=lFKaE7
+
+https://1drv.ms/x/c/7327a5504aff0be1/IQAqtufLTNFpQq5tEOI05rtdAYp9CqTUvrPYtDQ75GUrTwc?e=jcucRy
