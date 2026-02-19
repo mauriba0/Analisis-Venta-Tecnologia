@@ -7,13 +7,19 @@ Este proyecto surge a partir de un caso real: un conocido que recientemente abri
 A partir de esta información se realizó:
 
 • Organización y estructuración de los datos, transformándolos en una tabla limpia y ordenada.
+
 • Limpieza y preparación para eliminar errores e inconsistencias.
+
 • Análisis mediante tablas dinámicas para detectar patrones de ventas.
+
 • Identificación de productos más vendidos, desempeño por vendedor y distribución por regiones.
+
 • Desarrollo de un dashboard final con gráficos que facilitan la interpretación de la información.
 
 📈 Objetivo del proyecto:
+
 Convertir datos reales de ventas en información clara y visual que permita comprender el desempeño del negocio, detectar oportunidades de mejora y apoyar la toma de decisiones comerciales basadas en datos.
 
 👉 [Descargar archivo Excel]
+
 https://1drv.ms/x/c/7327a5504aff0be1/IQB9zLEyMK07QKgfQfGByUTuAb9egjFG7gCL0WlpMC2Xdfs?e=hnQrfx
