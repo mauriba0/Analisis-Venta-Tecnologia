@@ -22,4 +22,4 @@ Convertir datos reales de ventas en información clara y visual que permita comp
 
 👉 [Descargar archivo Excel]
 
-https://1drv.ms/x/c/7327a5504aff0be1/IQAqtufLTNFpQq5tEOI05rtdAYp9CqTUvrPYtDQ75GUrTwc?e=jcucRy
+https://1drv.ms/x/c/7327a5504aff0be1/IQCWwKT9ew40Tpw1Lzhf4MFSAY4WTLZNjXufqoUaIDN2EqI?e=sjNfzu
